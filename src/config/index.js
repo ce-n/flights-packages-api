@@ -3,8 +3,8 @@ const config = {
     DDBB: {
         NAME: 'despegarch',
         USER: 'root',
-        PASS: 'root',
-        PORT: '8889',
+        PASS: '',
+        PORT: '3306',
         HOST: 'localhost'
     },
     JWT: {
